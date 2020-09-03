@@ -1,4 +1,4 @@
 # openCV
 my openCV projects
 
-Projects completed with OpenCV and C++.
+Projects completed with OpenCV and C++ programming language.
