@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1590085684 source:d:\codeblocks\new_test\main.cpp
-	<opencv2/opencv.hpp>
-	<iostream>
-	<string>
-
